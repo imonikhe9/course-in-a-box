@@ -1,4 +1,4 @@
----
+The course will be about introducing LGBTQ issues in Long-Term specifically to staff and residents, in terms of helping staff and residents understand LGBTQ issues in long-term care. The course will cover  topics such  definitions of acronyms, issues concernng LGBTQ individuals while in long-term care, creating a welcoming environment, Do's and Don't, Right and Resources, and will incoroporate visual aids and quizzes to help wiht understanding.  
 layout: index
 published: true
 ---
